@@ -10,6 +10,6 @@ entries:
     name: fr3d-blog
     type: application
     urls:
-    - https://alexrf45.github.io/lab-helmcharts/fr3d-blog/fr3d-blog-0.1.0.tgz
+    - https://alexrf45.github.io/lab-helmcharts/fr3d-blog/fr3d-blog-0.2.0.tgz
     version: 0.2.0
 generated: "2024-10-12T17:12:31.454675007-04:00"
