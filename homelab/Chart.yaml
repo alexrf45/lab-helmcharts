@@ -1,0 +1,7 @@
+apiVersion: v2
+name: homelab
+description: A Helm chart for deploying my homelab blog
+type: application
+icon: https://gohugo.io/images/hugo-logo-wide.svg
+version: 1.0.0
+appVersion: "1.0.0"
