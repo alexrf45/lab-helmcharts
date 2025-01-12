@@ -3,13 +3,13 @@ entries:
   homelab:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-01-12T13:02:12.545951047-05:00"
+    created: "2025-01-12T13:06:09.776942821-05:00"
     description: A Helm chart for deploying my homelab blog
     digest: d6b65b5cfa740c62cb3d8f9ad0c70be8d0afad791321837532d6f6cfd394ab27
     icon: https://gohugo.io/images/hugo-logo-wide.svg
     name: homelab
     type: application
     urls:
-    - https://alexrf45.github.io/lab-helmcharts/homelab/homelab-1.0.0.tgz/homelab-1.0.0.tgz
+    - https://alexrf45.github.io/lab-helmcharts/homelab/homelab-1.0.0.tgz
     version: 1.0.0
-generated: "2025-01-12T13:02:12.544879843-05:00"
+generated: "2025-01-12T13:06:09.775865095-05:00"
