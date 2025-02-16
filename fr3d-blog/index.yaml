@@ -2,14 +2,37 @@ apiVersion: v1
 entries:
   fr3d-blog:
   - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2024-10-12T17:12:31.455234133-04:00"
+    appVersion: 0.0.5-alpha
+    created: "2025-02-16T09:23:32.639572478-05:00"
     description: My personal blog
-    digest: 93a048290454fac61dcc9478eb63b9767eaecfb70e263596948cd30e84829e28
+    digest: 06093f0a2d434b45bf130a037e3d87ea9986026d0faf1639eadf68a01e426f51
     icon: https://gohugo.io/images/hugo-logo-wide.svg
     name: fr3d-blog
     type: application
     urls:
-    - https://alexrf45.github.io/lab-helmcharts/fr3d-blog/fr3d-blog-0.2.0.tgz
+    - fr3d-blog-0.2.0.tgz
     version: 0.2.0
-generated: "2024-10-12T17:12:31.454675007-04:00"
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-02-16T09:23:32.638843281-05:00"
+    description: My personal blog
+    digest: 789d45c578b254282af1991e0025d718444bac588e3b00e6ad3a700e4476bb1c
+    icon: https://gohugo.io/images/hugo-logo-wide.svg
+    name: fr3d-blog
+    type: application
+    urls:
+    - fr3d-blog-0.1.0.tgz
+    version: 0.1.0
+  musings:
+  - apiVersion: v2
+    appVersion: 1.0.5
+    created: "2025-02-16T09:23:32.640693585-05:00"
+    description: My personal blog
+    digest: c738c752bc9c78df62a3d197f70dd3107bf9fae380f6bbe1618f54bba2ee15a1
+    icon: https://gohugo.io/images/hugo-logo-wide.svg
+    name: musings
+    type: application
+    urls:
+    - musings-0.3.0.tgz
+    version: 0.3.0
+generated: "2025-02-16T09:23:32.637819167-05:00"
