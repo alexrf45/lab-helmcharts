@@ -8,8 +8,8 @@ spec:
   type: {{ .Values.service.type }}
   ports:
     - port: {{ .Values.service.port }}
-      targetPort: http
+      targetPort: {{ .Values.service.port }}
       protocol: TCP
-      name: http
+      name: http-proxy
   selector:
     {{- include "fr3d-blog.selectorLabels" . | nindent 4 }}
