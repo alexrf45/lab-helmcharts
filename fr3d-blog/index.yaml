@@ -3,7 +3,7 @@ entries:
   fr3d-blog:
   - apiVersion: v2
     appVersion: 0.0.5-alpha
-    created: "2025-02-16T09:23:32.639572478-05:00"
+    created: "2025-02-17T00:36:44.728631474-05:00"
     description: My personal blog
     digest: 06093f0a2d434b45bf130a037e3d87ea9986026d0faf1639eadf68a01e426f51
     icon: https://gohugo.io/images/hugo-logo-wide.svg
@@ -14,7 +14,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-02-16T09:23:32.638843281-05:00"
+    created: "2025-02-17T00:36:44.728099056-05:00"
     description: My personal blog
     digest: 789d45c578b254282af1991e0025d718444bac588e3b00e6ad3a700e4476bb1c
     icon: https://gohugo.io/images/hugo-logo-wide.svg
@@ -26,13 +26,13 @@ entries:
   musings:
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2025-02-16T09:23:32.640693585-05:00"
+    created: "2025-02-17T00:36:44.729529915-05:00"
     description: My personal blog
-    digest: c738c752bc9c78df62a3d197f70dd3107bf9fae380f6bbe1618f54bba2ee15a1
+    digest: f000921d4a61f2e7168f18882fe292e00c0f64ffb2ef7d5f3dc5926afdeb03d5
     icon: https://gohugo.io/images/hugo-logo-wide.svg
     name: musings
     type: application
     urls:
     - musings-0.3.0.tgz
     version: 0.3.0
-generated: "2025-02-16T09:23:32.637819167-05:00"
+generated: "2025-02-17T00:36:44.72753095-05:00"
